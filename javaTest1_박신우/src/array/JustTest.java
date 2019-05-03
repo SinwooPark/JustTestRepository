@@ -9,5 +9,9 @@ public class JustTest {
 	}
 	
 	public void method2() {}
+	
+	public void method3() {
+		
+	}
 
 }
